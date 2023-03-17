@@ -1,1 +1,1 @@
-open(html5game.src)
+open(html5game.src);
